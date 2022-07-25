@@ -1,5 +1,3 @@
-#include <LiquidCrystal.h>
-
 #include "Robot.h"
 
 Motor fl(2, 4, 3);
